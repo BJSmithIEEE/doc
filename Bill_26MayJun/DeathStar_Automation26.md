@@ -1,8 +1,8 @@
-# Death Star Automation 2026
+# AT&T Wireless Billing Automation 2026
 
-Verson 0.1.1 (very rough draft, for legal documentation)
+Verson 0.1.2 (very rough draft, for legal documentation)
 
-The carrier commonly known for their 'Death Star' like logo, seemingly has unstoppable, uncorrectable Automation (including AI auto-closing tickets, admittedly so by their own reps).  It is wholly incapable of any accountability even across billing cycles.  The **root cause** is crystal clear ... their **carrier services end, including sending notifications** when their [International Day Pass (IDP)](https://www.att.com/international/day-pass/) is enabled, is **not 'in-sync' with their billing services end, which will still charge around $2,000 per GB** for international roaming.  Here is our personal example, for which we're still 'on-the-hook' for $22,000 of completely unjustified charges.
+AT&T Wireless seemingly has unstoppable, uncorrectable Billing Automation (including AI auto-closing tickets, admittedly so by their own reps).  It is wholly incapable of any accountability even across billing cycles.  The **root cause** is crystal clear ... their **carrier services end, including sending notifications** when their [International Day Pass (IDP)](https://www.att.com/international/day-pass/) is enabled, is **not 'in-sync' with their billing services end, which will still charge around $2,000 per GB** for international roaming.  Here is our personal example, for which we're still 'on-the-hook' for $22,000 of completely unjustified charges.
 
 
 ## Executive Summary
