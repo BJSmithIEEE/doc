@@ -1,6 +1,6 @@
 # Death Star Automation 2026
 
-Verson 0.1 (very rough draft, for legal documentation)
+Verson 0.1.1 (very rough draft, for legal documentation)
 
 The carrier commonly known for their 'Death Star' like logo, seemingly has unstoppable, uncorrectable Automation (including AI auto-closing tickets, admittedly so by their own reps).  It is wholly incapable of any accountability even across billing cycles.  The **root cause** is crystal clear ... their **carrier services end, including sending notifications** when their [International Day Pass (IDP)](https://www.att.com/international/day-pass/) is enabled, is **not 'in-sync' with their billing services end, which will still charge around $2,000 per GB** for international roaming.  Here is our personal example, for which we're still 'on-the-hook' for $22,000 of completely unjustified charges.
 
@@ -74,7 +74,7 @@ Coincidentally, we had enough in the bank account, because we were preparing to 
 
 ## Barely an Hour:  Joshua Opens Ticket to Void
 
-I spoke to Josh[ua] (ID JI466Q) in their billing department who spoke near perfect English, even though their customer service was outsourced.  I even made a joke to start, something about me 'letting his eyeballs pop out.'  I was largely just jolly and kinda 'amuzed.'  He took the situation very seriously, was very professional, and appreciated my understanding too.  He was just trying to do his job.  He did confirm it should have been enabled, and he recognized we did not receive those notifications that we were on IDP on May 11th, as it was noted as such in our account too ... both phones, my wife being the primary.
+I spoke to Josh[ua] (ID JI466Q) in their billing department who spoke near perfect English, even though their customer service was outsourced.  I even made a joke to start, something about me 'letting his eyeballs pop out.'  I was largely just jolly and kinda 'amuzed.'  He took the situation very seriously, was very professional, and appreciated my understanding too.  He was just trying to do his job.  He did confirm it should have been enabled, and he recognized we did receive those notifications that we were on IDP on May 11th, as it was noted as such in our account too ... both phones, my wife being the primary.
 
 I would received the following text messages, the first one while Josh was on the call, and the second one after, confirming the charge would be voided.
 
@@ -84,9 +84,9 @@ He said it should be addressed in one (1) business day, but he was going to exte
 
 I thought it was the end of it.  But still, already killing my day at work, where I have to be on-site without communication, I decided to visit the bank.  It was a bank I worked for nearly a half-decade, first as a vendor, and then after doing 9 months elsewhere (I respect Non-Compete clauses, and my employer I worked for nearly a decade, 7 as a direct, full time employee, placed me there), I came on as a direct employee.
 
-Gerardo took care of me, and was very interested in my text messages.  They put a block on AT&T, but did say I may need to close the account, since they could try different methods to bill it.  My wife had previously attempted to transfer funds into our savings (different account, same bank), of which the bank had put a general hold on various transactions (even account to account), but our transfer was allowed to go through.
+Gerardo took care of me, and was very interested in my text messages.  They put a block on AT&T, but did say I may need to close the account, since AT&T could try different methods to bill it.  My wife had previously attempted to transfer funds into our savings (different account, same bank), of which the bank had put a general hold on various transactions (even account to account), but our transfer was eventually allowed to go through.
 
-We attempted on-line to change our payment method, but other than paying in full, that was not an option.  We waited and kept checking the rest of the week.
+We attempted on-line to change our payment method, but other than paying in full, that was not an option, just like on the phone.  We waited and kept checking the rest of the week.
 
 
 ## No Change by Next Week:  AI Gone Wild
@@ -133,7 +133,7 @@ But I was growing tired of our $22,000, now $32,000, in interntional roaming cha
 
 As before Rey confirmed the May 8th call, the periods it should have been active, from May 11th on-ward, which seemingly was for their carrier services, but not billing.  Billing still only had it for the day it was, for my wife only, on Friday, May 29th, as I had returned on the 26th.  
 
-I didn't get a Ticket or Dase number, only an Interaction number 043812882.
+I didn't get a Ticket or Case number, only an Interaction number 043812882.
 
 Rey aid he could not receive screenshots, and that I would have to open a ticket with [AT&T Mobility Fraud](https://attfraud.custhelp.com/app/mobility/home) to do so.  As I opened the ticket with fraud, I informed him the forms to fraud did not allow me to attach screenshots.  AT&T Global Fraud Reference number 260626-000210 was opened by myself while on the line, as I noted the number when I receive an e-mail verification.  Rey said they would contact me to receive screenshots.
 
